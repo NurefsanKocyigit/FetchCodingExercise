@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13b31fb8-0cfe-49e6-b1a9-1ff220bf53e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
@@ -102,7 +103,19 @@
       <option name="presentableId" value="Default" />
       <updated>1605900415210</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fetch Coding">
+      <created>1606010012785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606010012785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fetch Coding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fetch Coding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="448" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605904198082">
@@ -113,34 +126,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="410" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/1920.69.1920.1040@0.0.1536.824" timestamp="1605903774384" />
+    <state x="356" y="0" key="CommitChangelistDialog2" timestamp="1606010011904">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606010011904" />
     <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1605903358660">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824/1920.69.1920.1040@0.0.1536.824" timestamp="1605903358660" />
-    <state width="1481" height="3" key="GridCell.Tab.0.bottom" timestamp="1606009796980">
+    <state width="1481" height="3" key="GridCell.Tab.0.bottom" timestamp="1606010285810">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1481" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.69.1920.1040@0.0.1536.824" timestamp="1605907136283" />
-    <state width="1481" height="3" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606009796980" />
-    <state width="1481" height="3" key="GridCell.Tab.0.center" timestamp="1606009796980">
+    <state width="1481" height="3" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606010285810" />
+    <state width="1481" height="3" key="GridCell.Tab.0.center" timestamp="1606010285809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1481" height="153" key="GridCell.Tab.0.center/0.0.1536.824/1920.69.1920.1040@0.0.1536.824" timestamp="1605907136283" />
-    <state width="1481" height="3" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606009796980" />
-    <state width="1481" height="3" key="GridCell.Tab.0.left" timestamp="1606009796980">
+    <state width="1481" height="3" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606010285809" />
+    <state width="1481" height="3" key="GridCell.Tab.0.left" timestamp="1606010285809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1481" height="153" key="GridCell.Tab.0.left/0.0.1536.824/1920.69.1920.1040@0.0.1536.824" timestamp="1605907136283" />
-    <state width="1481" height="3" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606009796980" />
-    <state width="1481" height="3" key="GridCell.Tab.0.right" timestamp="1606009796980">
+    <state width="1481" height="3" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606010285809" />
+    <state width="1481" height="3" key="GridCell.Tab.0.right" timestamp="1606010285809">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1481" height="153" key="GridCell.Tab.0.right/0.0.1536.824/1920.69.1920.1040@0.0.1536.824" timestamp="1605907136283" />
-    <state width="1481" height="3" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606009796980" />
+    <state width="1481" height="3" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606010285809" />
     <state x="161" y="0" key="SettingsEditor" timestamp="1606009946099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="161" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606009946099" />
+    <state x="261" y="66" key="Vcs.Push.Dialog.v2" timestamp="1606010029844">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="66" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606010029844" />
     <state x="341" y="183" key="run.anything.popup" timestamp="1606008441499">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
